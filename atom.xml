@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Aprende Swift en Español]]></title>
+  <link href="http://www.aprendeswift.es/atom.xml" rel="self"/>
+  <link href="http://www.aprendeswift.es/"/>
+  <updated>2014-08-21T17:10:05+02:00</updated>
+  <id>http://www.aprendeswift.es/</id>
+  <author>
+    <name><![CDATA[Diego Freniche]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing This Thing]]></title>
+    <link href="http://www.aprendeswift.es/blog/2014/08/21/testing-this-thing/"/>
+    <updated>2014-08-21T17:07:28+02:00</updated>
+    <id>http://www.aprendeswift.es/blog/2014/08/21/testing-this-thing</id>
+    <content type="html"><![CDATA[<p>Este es el primer texto de prueba</p>
+
+<p>Repito: son pruebas</p>
+
+<hr />
+
+<p>Aquí va código</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='swift'><span class='line'><span class="k">var</span> <span class="nl">people</span><span class="p">:</span> <span class="n">Dictionary</span><span class="o">&lt;</span><span class="n">String</span><span class="p">,</span> <span class="n">String</span><span class="o">&gt;</span> <span class="o">=</span> <span class="p">[</span>
+</span><span class='line'>  <span class="s">&quot;gro&quot;</span><span class="o">:</span> <span class="n">names</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span>
+</span><span class='line'>  <span class="s">&quot;har&quot;</span><span class="o">:</span> <span class="n">names</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span>
+</span><span class='line'>  <span class="s">&quot;chi&quot;</span><span class="o">:</span> <span class="n">names</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span>
+</span><span class='line'>  <span class="s">&quot;zep&quot;</span><span class="o">:</span> <span class="n">names</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span>
+</span><span class='line'><span class="p">]</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">for</span> <span class="p">(</span><span class="n">key</span><span class="p">,</span> <span class="n">value</span><span class="p">)</span> <span class="k">in</span> <span class="n">people</span> <span class="p">{</span>
+</span><span class='line'>  <span class="n">println</span><span class="p">(</span><span class="s">&quot;\(key) \(value)&quot;</span><span class="p">)</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>lista</li>
+<li>otra</li>
+<li>lista</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
