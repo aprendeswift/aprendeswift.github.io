@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.aprendeswift.es/sitemap.xml 
+Sitemap: http://aprendeswift.es/sitemap.xml 

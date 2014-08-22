@@ -3,24 +3,31 @@
   
   
   <url>
-    <loc>http://www.aprendeswift.es/blog/2014/08/21/testing-this-thing/</loc>
+    <loc>http://aprendeswift.es/blog/2014/08/21/testing-this-thing/</loc>
     <lastmod>2014-08-21T17:07:28+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://www.aprendeswift.es/blog/archives/</loc>
-    <lastmod>2014-08-21T17:10:05+02:00</lastmod>
+    <loc>http://aprendeswift.es/blog/archives/</loc>
+    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.aprendeswift.es/</loc>
-    <lastmod>2014-08-21T17:10:05+02:00</lastmod>
+    <loc>http://aprendeswift.es/</loc>
+    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aprendeswift.es/about/</loc>
+    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   

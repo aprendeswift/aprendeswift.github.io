@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aprende Swift en Español]]></title>
-  <link href="http://www.aprendeswift.es/atom.xml" rel="self"/>
-  <link href="http://www.aprendeswift.es/"/>
-  <updated>2014-08-21T17:10:05+02:00</updated>
-  <id>http://www.aprendeswift.es/</id>
+  <title><![CDATA[Aprende Swift]]></title>
+  <link href="http://aprendeswift.es/atom.xml" rel="self"/>
+  <link href="http://aprendeswift.es/"/>
+  <updated>2014-08-22T12:46:35+02:00</updated>
+  <id>http://aprendeswift.es/</id>
   <author>
     <name><![CDATA[Diego Freniche]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing This Thing]]></title>
-    <link href="http://www.aprendeswift.es/blog/2014/08/21/testing-this-thing/"/>
+    <link href="http://aprendeswift.es/blog/2014/08/21/testing-this-thing/"/>
     <updated>2014-08-21T17:07:28+02:00</updated>
-    <id>http://www.aprendeswift.es/blog/2014/08/21/testing-this-thing</id>
+    <id>http://aprendeswift.es/blog/2014/08/21/testing-this-thing</id>
     <content type="html"><![CDATA[<p>Este es el primer texto de prueba</p>
 
 <p>Repito: son pruebas</p>
@@ -55,6 +55,10 @@
 <li>lista</li>
 </ul>
 
+
+<hr />
+
+<p>Just added this</p>
 ]]></content>
   </entry>
   
