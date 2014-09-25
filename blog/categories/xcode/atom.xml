@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aprende Swift]]></title>
-  <link href="http://aprendeswift.es/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Xcode, | Aprende Swift]]></title>
+  <link href="http://aprendeswift.es/blog/categories/xcode/atom.xml" rel="self"/>
   <link href="http://aprendeswift.es/"/>
   <updated>2014-09-25T12:57:15+02:00</updated>
   <id>http://aprendeswift.es/</id>
@@ -37,21 +37,6 @@
 <h3>¿Correrá Swift en una máquina virtual con OS X dentro de mi PC?</h3>
 
 <p>Por supuesto. Y lo hará sin problemas <em>técnicos</em>. Pero recuerda que la licencia de OS X no permite ejecutarlo virtualizado. Así que si lo haces, es siempre bajo tu propia responsabilidad.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Empezamos]]></title>
-    <link href="http://aprendeswift.es/blog/2014/09/25/empezamos/"/>
-    <updated>2014-09-25T12:41:31+02:00</updated>
-    <id>http://aprendeswift.es/blog/2014/09/25/empezamos</id>
-    <content type="html"><![CDATA[<p>Este es el primer post, para explicar de qué va aprendeswift.es. La idea es escribir un par de posts a la semana en la que iré hablando, sin ningún orden concreto, sobre aspectos de Swift.</p>
-
-<p>Los motivos los explico en el <a href="acerca-de/">Acerca de</a>, pero TL;DR; son que quiero escribir un libro sobre programación en Swift y esta es una buena manera de obligarme y mantener una regularidad.</p>
-
-<p>Espero que os guste y, cuando ponga a la venta el libro, me apoyéis con vuestras muestras de afecto, adhesión inquebrantable y vuestra cartera, que de alguna manera hay que pagar las facturas y ampliar el libro :-D</p>
-
-<p>Diego</p>
 ]]></content>
   </entry>
   

@@ -3,29 +3,63 @@
   
   
   <url>
-    <loc>http://aprendeswift.es/blog/2014/08/21/testing-this-thing/</loc>
-    <lastmod>2014-08-21T17:07:28+02:00</lastmod>
+    <loc>http://aprendeswift.es/blog/2014/09/25/que-necesitas-para-empezar-a-programar-en-swift/</loc>
+    <lastmod>2014-09-25T12:50:26+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://aprendeswift.es/blog/2014/09/25/empezamos/</loc>
+    <lastmod>2014-09-25T12:41:31+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
+    <loc>http://aprendeswift.es/archives/</loc>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://aprendeswift.es/blog/archives/</loc>
-    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://aprendeswift.es/blog/</loc>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aprendeswift.es/</loc>
-    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
+    <loc>http://aprendeswift.es/acerca-de/</loc>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://aprendeswift.es/contacto/</loc>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://aprendeswift.es/about/</loc>
-    <lastmod>2014-08-22T12:46:35+02:00</lastmod>
+    <lastmod>2014-09-25T12:57:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
